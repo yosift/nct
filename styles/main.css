@@ -1,0 +1,9 @@
+/*------------------Main screens styles-----------------*/
+/*Mini screens styles*/
+@import url("./min.css");
+
+/*Medium screens styles*/
+@import url("./med.css");
+
+/*Large screens styles*/
+@import url("./lrg.css");
