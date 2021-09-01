@@ -8,9 +8,9 @@
   }
   .main{
     display: grid;
-    height: 280vh;
+    height: 270vh;
     grid-template-columns: repeat(3,1fr);
-    grid-template-rows: 30vh 200vh 50vh;
+    grid-template-rows: 20vh 200vh 50vh;
     grid-template-areas: "hed hed hed"
     "sec sec sec"
     "fot fot fot";
